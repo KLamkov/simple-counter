@@ -1,3 +1,19 @@
+# Description
+Simple react counter
+## Options
+  + Plus
+  + Minus
+  + Random
+
+![screen](public/screen.png)
+
+[Published project link](https://klamkov.github.io/simple-counter/)
+
+___
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
